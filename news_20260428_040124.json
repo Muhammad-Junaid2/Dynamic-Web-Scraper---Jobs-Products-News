@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Python 3.14 Released with New Type System",
+    "description": "Points: 892 | Comments: 234",
+    "source": "HackerNews",
+    "published_date": "2026-04-15T04:01:24",
+    "url": "https://example.com/article/1",
+    "author": "Various"
+  },
+  {
+    "title": "Show HN: I built a web scraper in 100 lines of Python",
+    "description": "Points: 456 | Comments: 78",
+    "source": "HackerNews",
+    "published_date": "2026-04-26T04:01:24",
+    "url": "https://example.com/article/1",
+    "author": "Various"
+  },
+  {
+    "title": "Ask HN: Best practices for async Python?",
+    "description": "Points: 311 | Comments: 122",
+    "source": "HackerNews",
+    "published_date": "2026-04-27T04:01:24",
+    "url": "https://example.com/article/1",
+    "author": "Various"
+  },
+  {
+    "title": "FastAPI vs Django in 2025",
+    "description": "Points: 567 | Comments: 145",
+    "source": "HackerNews",
+    "published_date": "2026-04-19T04:01:24",
+    "url": "https://example.com/article/1",
+    "author": "Various"
+  },
+  {
+    "title": "Building a real-time dashboard with Python and WebSockets",
+    "description": "Points: 234 | Comments: 67",
+    "source": "HackerNews",
+    "published_date": "2026-04-20T04:01:24",
+    "url": "https://example.com/article/1",
+    "author": "Various"
+  },
+  {
+    "title": "10 Python Tips Every Developer Should Know",
+    "description": "Python has many hidden features that can boost your productivity.",
+    "source": "Dev.to",
+    "published_date": "2026-04-15T04:01:24",
+    "url": "https://example.com/article/1",
+    "author": "Various"
+  },
+  {
+    "title": "Web Scraping with BeautifulSoup in 2025",
+    "description": "A comprehensive guide to scraping modern websites responsibly.",
+    "source": "Dev.to",
+    "published_date": "2026-04-26T04:01:24",
+    "url": "https://example.com/article/1",
+    "author": "Various"
+  },
+  {
+    "title": "Async Python: The Complete Guide",
+    "description": "Learn how asyncio, aiohttp, and modern async patterns work together.",
+    "source": "Dev.to",
+    "published_date": "2026-04-26T04:01:24",
+    "url": "https://example.com/article/1",
+    "author": "Various"
+  },
+  {
+    "title": "Building REST APIs with FastAPI",
+    "description": "FastAPI makes it incredibly easy to build modern, fast APIs.",
+    "source": "Dev.to",
+    "published_date": "2026-04-15T04:01:24",
+    "url": "https://example.com/article/1",
+    "author": "Various"
+  },
+  {
+    "title": "Python Data Classes: A Deep Dive",
+    "description": "Dataclasses reduce boilerplate and make your code cleaner.",
+    "source": "Dev.to",
+    "published_date": "2026-04-16T04:01:24",
+    "url": "https://example.com/article/1",
+    "author": "Various"
+  }
+]

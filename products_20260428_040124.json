@@ -1,0 +1,202 @@
+[
+  {
+    "name": "The Great Gatsby",
+    "price": "\u00a39.99",
+    "rating": "2/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/the-great-gatsby",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Clean Code",
+    "price": "\u00a39.99",
+    "rating": "5/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/clean-code",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Python Crash Course",
+    "price": "\u00a315.49",
+    "rating": "4/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/python-crash-course",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Sapiens",
+    "price": "\u00a311.50",
+    "rating": "2/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/sapiens",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Atomic Habits",
+    "price": "\u00a318.00",
+    "rating": "4/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/atomic-habits",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Deep Work",
+    "price": "\u00a311.50",
+    "rating": "5/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/deep-work",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "The Pragmatic Programmer",
+    "price": "\u00a38.00",
+    "rating": "2/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/the-pragmatic-programmer",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Design Patterns",
+    "price": "\u00a312.99",
+    "rating": "3/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/design-patterns",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "DDIA",
+    "price": "\u00a314.99",
+    "rating": "5/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/ddia",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Eloquent JavaScript",
+    "price": "\u00a38.00",
+    "rating": "3/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/eloquent-javascript",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "The Great Gatsby",
+    "price": "\u00a311.50",
+    "rating": "5/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/the-great-gatsby",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Clean Code",
+    "price": "\u00a314.99",
+    "rating": "2/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/clean-code",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Python Crash Course",
+    "price": "\u00a315.49",
+    "rating": "2/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/python-crash-course",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Sapiens",
+    "price": "\u00a315.49",
+    "rating": "5/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/sapiens",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Atomic Habits",
+    "price": "\u00a39.99",
+    "rating": "4/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/atomic-habits",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Deep Work",
+    "price": "\u00a322.99",
+    "rating": "2/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/deep-work",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "The Pragmatic Programmer",
+    "price": "\u00a312.99",
+    "rating": "3/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/the-pragmatic-programmer",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Design Patterns",
+    "price": "\u00a318.00",
+    "rating": "3/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/design-patterns",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "DDIA",
+    "price": "\u00a314.99",
+    "rating": "4/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/ddia",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Eloquent JavaScript",
+    "price": "\u00a312.99",
+    "rating": "1/5",
+    "category": "Books",
+    "product_link": "https://books.toscrape.com/catalogue/eloquent-javascript",
+    "source": "BooksToScrape"
+  },
+  {
+    "name": "Fjallraven Backpack",
+    "price": "09.95",
+    "rating": "3.9/5",
+    "category": "men's clothing",
+    "product_link": "https://fakestoreapi.com/products/1",
+    "source": "FakeStore"
+  },
+  {
+    "name": "Mens Casual Premium Slim Fit T-Shirts",
+    "price": "2.30",
+    "rating": "4.1/5",
+    "category": "men's clothing",
+    "product_link": "https://fakestoreapi.com/products/1",
+    "source": "FakeStore"
+  },
+  {
+    "name": "Womens Ring Genuine 925 Sterling Silver",
+    "price": "95.00",
+    "rating": "3.0/5",
+    "category": "jewelery",
+    "product_link": "https://fakestoreapi.com/products/1",
+    "source": "FakeStore"
+  },
+  {
+    "name": "SanDisk SSD PLUS 1TB",
+    "price": "09.00",
+    "rating": "2.9/5",
+    "category": "electronics",
+    "product_link": "https://fakestoreapi.com/products/1",
+    "source": "FakeStore"
+  },
+  {
+    "name": "Silicon Power 256GB SSD",
+    "price": "09.00",
+    "rating": "4.8/5",
+    "category": "electronics",
+    "product_link": "https://fakestoreapi.com/products/1",
+    "source": "FakeStore"
+  }
+]
